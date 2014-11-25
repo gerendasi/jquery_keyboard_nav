@@ -1,0 +1,33 @@
+<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">
+
+$(function() {
+  $(document).keyup(function(e) {
+                    switch(e.keyCode) {
+                    case 48 : window.location="/seinfeld"; break;
+                    case 49 : window.location="/URL_here"; break;
+                    case 50 : window.location="/URL_here"; break;
+                    case 51 : window.location="/URL_here"; break;
+                    case 52 : window.location="/URL_here"; break;
+                    case 53 : window.location="/URL_here"; break;
+                    case 54 : window.location="/URL_here"; break;
+                    case 55 : window.location="/URL_here"; break;
+                    case 56 : window.location="/URL_here"; break;
+                    case 57 : window.location="/URL_here"; break;
+                    }
+                    });
+  });
+
+</script>
+<script type="text/javascript">
+
+$(function() {
+  $(document).keyup(function(e) {
+                    switch(e.keyCode) {
+                    
+                    case 39 : window.location="/URL_here"; break;
+                    }
+                    });
+  });
+
+</script>
