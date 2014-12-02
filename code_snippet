@@ -4,7 +4,7 @@
 $(function() {
   $(document).keyup(function(e) {
                     switch(e.keyCode) {
-                    case 48 : window.location="/seinfeld"; break;
+                    case 48 : window.location="/index"; break;
                     case 49 : window.location="/URL_here"; break;
                     case 50 : window.location="/URL_here"; break;
                     case 51 : window.location="/URL_here"; break;
